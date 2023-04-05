@@ -1,0 +1,6 @@
+build.xml
+build/
+manifest.mf
+nbproject/
+test/
+config.properties.txt
